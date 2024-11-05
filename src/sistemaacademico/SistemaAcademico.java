@@ -10,10 +10,13 @@ package sistemaacademico;
  */
 public class SistemaAcademico {
 
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        System.out.println("SISTEMA ACADEMICO");
         // TODO code application logic here
     }
     
