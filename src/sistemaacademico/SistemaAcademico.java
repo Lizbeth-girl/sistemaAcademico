@@ -17,6 +17,7 @@ public class SistemaAcademico {
     public static void main(String[] args) {
         
         System.out.println("SISTEMA ACADEMICO");
+        System.out.println("buenos dias ");
         // TODO code application logic here
     }
     
